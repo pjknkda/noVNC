@@ -56,5 +56,8 @@
     "rollup": "^0.41.4",
     "rollup-plugin-node-resolve": "^2.0.0",
     "sinon-chai": "^2.8.0"
+  },
+  "dependencies": {
+    "karma-browserify": "^5.1.1"
   }
 }
